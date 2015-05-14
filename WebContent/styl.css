@@ -1,0 +1,49 @@
+@CHARSET "ISO-8859-1";
+body {
+	color: #13038B;
+	font-family: Sans-serif;
+    background: url(gradient.png);
+}
+a {
+    color: #13038B;	
+}
+#lp {
+	position: relative;
+	top: 100px;
+	border: 0px solid;
+    border-radius: 10px;
+    width: 500px;
+    background: #DFE0FF;
+    box-shadow: 10px 10px 5px #888888;
+} 
+#nav {
+	position: fixed;
+	top: 3px;
+	left: 3px;
+	border: 0px solid;
+    border-radius: 3px;
+    width: 80px;
+    background: #DFE0FF
+	
+}
+#signup {
+	position: relative;
+	top: 50px;
+	border: 0px solid;
+    border-radius: 10px;
+    width: 500px;
+    background: #DFE0FF;
+    box-shadow: 10px 10px 5px #888888;
+}
+#logout {
+	position: fixed;
+	top: 3px;
+	right: 3px;
+	border: 0px solid;
+    border-radius: 3px;
+    width: 65px;
+    background: #DFE0FF;	
+}
+
+
+
